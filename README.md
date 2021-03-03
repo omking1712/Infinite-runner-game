@@ -1,3 +1,1 @@
-## Project-C-38b
-Infinite Runner game... 
-
+INFINITE RUNNER GAME
